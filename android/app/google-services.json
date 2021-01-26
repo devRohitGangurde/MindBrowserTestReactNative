@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471876870511",
+    "project_id": "mindbrowser-f7523",
+    "storage_bucket": "mindbrowser-f7523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471876870511:android:581dd5ce7656147846c89a",
+        "android_client_info": {
+          "package_name": "com.mindbrowsertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471876870511-n0qqp1onn7aoe0701mmeclmvbhftpe6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-Q78YgmSZOS3XhPNGjRlV6wQHftpbeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471876870511-n0qqp1onn7aoe0701mmeclmvbhftpe6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
